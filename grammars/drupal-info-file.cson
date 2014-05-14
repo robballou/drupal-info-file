@@ -13,4 +13,8 @@
         'name': 'string'
     }
   }
+  {
+    'match': '^;.+'
+    'name': 'comment'
+  }
 ]
