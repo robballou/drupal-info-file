@@ -1,3 +1,3 @@
-# drupal-info-file-syntax
+# Drupal Info File syntax
 
-Drupal info file syntax
+Syntax highlighting for Drupal's `.info` files plus a few snippets.
