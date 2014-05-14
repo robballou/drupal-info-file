@@ -5,7 +5,7 @@
   "description": "Drupal info file syntax",
   "repository": {
     "type": "git",
-    "url": "https://github.com/robballou/drupal-info-file-syntax"
+    "url": "https://github.com/robballou/drupal-info-file"
   },
   "license": "MIT",
   "engines": {
@@ -14,7 +14,7 @@
   "dependencies": {},
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/robballou/drupal-info-file-syntax"
+    "url": "https://github.com/robballou/drupal-info-file/info"
   },
-  "homepage": "https://github.com/robballou/drupal-info-file-syntax"
+  "homepage": "https://github.com/robballou/drupal-info-file"
 }
