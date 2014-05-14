@@ -1,0 +1,4 @@
+'.drupal':
+  'Name':
+    'prefix': 'name'
+    'body': 'name = ${1:name}'

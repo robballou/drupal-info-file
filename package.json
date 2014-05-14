@@ -1,0 +1,20 @@
+{
+  "name": "drupal-info-file",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Drupal info file syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robballou/drupal-info-file-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/robballou/drupal-info-file-syntax"
+  },
+  "homepage": "https://github.com/robballou/drupal-info-file-syntax",
+}
