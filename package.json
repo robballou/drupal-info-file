@@ -1,6 +1,6 @@
 {
   "name": "drupal-info-file",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": false,
   "description": "Drupal info file syntax",
   "repository": {
