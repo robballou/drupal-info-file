@@ -5,7 +5,7 @@
 ]
 'patterns': [
   {
-    'match': "^([a-zA-Z0-9_\\]\\[\\s]+)\\s*=\\s*(.+)$"
+    'match': "^([a-zA-Z0-9\\-_\\]+\\[\\s]+)\\s*=\\s*(.+)$"
     'captures': {
       '1':
         'name': 'keyword.name'
