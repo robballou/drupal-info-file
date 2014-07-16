@@ -16,4 +16,4 @@
     'body': 'description = ${1:description}'
   'File':
     'prefix': 'f'
-    'body': 'file[$2] = ${1:file}'
+    'body': 'files[$2] = ${1:file}'
