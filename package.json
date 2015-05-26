@@ -2,7 +2,7 @@
   "name": "drupal-info-file",
   "version": "1.5.0",
   "private": false,
-  "description": "Drupal info file syntax",
+  "description": "DEPRECATED: Use atom-drupal. Drupal info file syntax",
   "repository": {
     "type": "git",
     "url": "https://github.com/robballou/drupal-info-file"
